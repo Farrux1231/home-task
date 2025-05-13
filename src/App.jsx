@@ -1,7 +1,7 @@
-import Sidebar from './components/sideBar/SideBar'
-import Create from './pages/create/create'
-import Delete from './pages/delete/delete'
-import Read from './pages/read/Read'
+import Sidebar from './components/sideBar/SideBar.jsx'
+import Create from './pages/create/Create.jsx'
+import Delete from './pages/delete/Delete.jsx'
+import Read from './pages/read/Read.jsx'
 import { Router, Routes, Route } from "react-router-dom";
 
 function App() {
